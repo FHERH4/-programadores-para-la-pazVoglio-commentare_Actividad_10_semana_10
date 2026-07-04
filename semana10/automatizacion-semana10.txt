@@ -1,0 +1,18 @@
+AUTOMATIZACIÓN CON N8N Y TELEGRAM
+
+Evento que activa el flujo:
+
+Cuando un ciudadano registra un nuevo reporte en el sistema.
+
+Mensaje enviado a Telegram:
+
+"Nuevo reporte recibido. Revisar el sistema para realizar el seguimiento."
+
+Información que NO debe enviarse:
+
+• Nombre completo del ciudadano.
+• Documento de identidad.
+• Dirección.
+• Número telefónico.
+• Contraseñas.
+• Datos personales sensibles.
